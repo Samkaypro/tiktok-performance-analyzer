@@ -45,7 +45,7 @@ export default function Component() {
         
         <div className="mt-8 text-center">
           <p className="text-sm text-gray-400 bg-black bg-opacity-30 p-4 rounded-lg backdrop-blur-sm">
-            We'll analyze the last 10 videos to give you a performance grade based on engagement rates.
+            We&apos;ll analyze the last 10 videos to give you a performance grade based on engagement rates.
           </p>
         </div>
       </div>
